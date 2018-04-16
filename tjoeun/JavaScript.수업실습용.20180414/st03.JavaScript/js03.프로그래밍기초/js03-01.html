@@ -1,12 +1,35 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="ko">
 <head>
     <meta charset="UTF-8">
     <title>Title</title>
+    <style></style>
+    <script src="js03-01.js"></script>
+    <script>
+        var value1, value2, sum = 0, average = 0;
+
+        value1 = prompt('첫번째 과목 점수를 입력하세요', '0');
+        value2 = prompt('두번째 과목 점수를 입력하세요', '0');
+
+        value1 = eval(value1);
+        value2 = eval(value2);
+        sum = value1 + value2;
+        average = sum/2;
+
+        document.write('---------------<br>');
+        if(average>=95){
+            document.write('very Good' + '<br>');
+        }else {
+            document.write('very Good' + '<br>');
+        }
+        document.write('---------------<br>');
+    </script>
 </head>
 <body>
-
     <p>Hello, JavaScript!!!</p>
+    <script>
+        console.log('console test')
+    </script>
 </body>
 </html>
 
