@@ -4,6 +4,18 @@
     <meta charset="UTF-8">
     <title>몫과 나머지 구하기</title>
     <style></style>
+    <script>
+//        var name = prompt('이름을 입력하시오','');
+        var tall = prompt('키를 입력하시오','');
+        var weight = prompt('체중을 입력하시오','');
+
+        var average = (tall - 100) * 0.9; //평균 체중
+        var result = weight >= average -5 && weight <= average + 5; //오차범위 +-5
+        result = result ? '적정 체중입니다': '적정 체중이 아닙니다'; //true면 앞 : false면 뒤
+
+        document.write(name + '님은 '+ result);
+
+    </script>
 </head>
 <body>
 </body>
