@@ -2,10 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1fd4cf42-06ff-4d2d-bbcb-a758343af302" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tjoeun/JavaScript.수업실습용.20180414/st03.JavaScript/js05.연산자/ex05-2 표준입출력.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tjoeun/JavaScript.수업실습용.20180414/st03.JavaScript/js06.선택문_반복문_예외문/ex06-01.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tjoeun/JavaScript.수업실습용.20180414/st03.JavaScript/js06.선택문_반복문_예외문/ex06-02 if-else.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tjoeun/JavaScript.수업실습용.20180414/st03.JavaScript/js06.선택문_반복문_예외문/ex06-02.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tjoeun/JavaScript.수업실습용.20180414/st03.JavaScript/js06.선택문_반복문_예외문/ex06-03 for.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tjoeun/JavaScript.수업실습용.20180414/st03.JavaScript/js06.선택문_반복문_예외문/ex06-03 for2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tjoeun/JavaScript.수업실습용.20180414/st03.JavaScript/js06.선택문_반복문_예외문/ex06-03 for3.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tjoeun/JavaScript.수업실습용.20180414/st03.JavaScript/js06.선택문_반복문_예외문/ex06-15 중첩 for문.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tjoeun/JavaScript.수업실습용.20180414/st03.JavaScript/js06.선택문_반복문_예외문/ex06-16 중첩 for문.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tjoeun/JavaScript.수업실습용.20180414/st03.JavaScript/js06.선택문_반복문_예외문/ex06-18 배열.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tjoeun/JavaScript.수업실습용.20180414/st03.JavaScript/js06.선택문_반복문_예외문/ex06-19 무한루프.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tjoeun/JavaScript.수업실습용.20180414/st03.JavaScript/js06.선택문_반복문_예외문/ex06-19 무한루프2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tjoeun/JavaScript.수업실습용.20180414/st03.JavaScript/js06.선택문_반복문_예외문/ex06-20 무인도 탈출게임.html" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tjoeun/JavaScript.수업실습용.20180414/st03.JavaScript/js06.선택문_반복문_예외문/ex06-03.html" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tjoeun/JavaScript.수업실습용.20180414/st03.JavaScript/js05.연산자/js05-02.몫과머지.html" afterPath="$PROJECT_DIR$/tjoeun/JavaScript.수업실습용.20180414/st03.JavaScript/js05.연산자/js05-02.몫과머지.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tjoeun/JavaScript.수업실습용.20180414/st03.JavaScript/js05.연산자/js05-09.자동형변환.html" afterPath="$PROJECT_DIR$/tjoeun/JavaScript.수업실습용.20180414/st03.JavaScript/js05.연산자/js05-09.자동형변환.html" />
     </list>
     <ignored path="study.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -29,51 +39,101 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="js05-09.자동형변환.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tjoeun/JavaScript.수업실습용.20180414/st03.JavaScript/js05.연산자/js05-09.자동형변환.html">
+      <file leaf-file-name="ex06-02 if-else.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tjoeun/JavaScript.수업실습용.20180414/st03.JavaScript/js06.선택문_반복문_예외문/ex06-02 if-else.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+            <state relative-caret-position="120">
+              <caret line="6" column="36" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="js05-02.몫과머지.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tjoeun/JavaScript.수업실습용.20180414/st03.JavaScript/js05.연산자/js05-02.몫과머지.html">
+      <file leaf-file-name="ex06-03 for.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tjoeun/JavaScript.수업실습용.20180414/st03.JavaScript/js06.선택문_반복문_예외문/ex06-03 for.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="19" column="6" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
+            <state relative-caret-position="300">
+              <caret line="15" column="33" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ex05-1.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tjoeun/JavaScript.수업실습용.20180414/st03.JavaScript/js05.연산자/ex05-1.html">
+      <file leaf-file-name="ex06-03 for2.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tjoeun/JavaScript.수업실습용.20180414/st03.JavaScript/js06.선택문_반복문_예외문/ex06-03 for2.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="140">
+              <caret line="7" column="34" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ex06-03 for3.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tjoeun/JavaScript.수업실습용.20180414/st03.JavaScript/js06.선택문_반복문_예외문/ex06-03 for3.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="339">
+              <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ex06-15 중첩 for문.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tjoeun/JavaScript.수업실습용.20180414/st03.JavaScript/js06.선택문_반복문_예외문/ex06-15 중첩 for문.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="80">
+              <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ex06-16 중첩 for문.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tjoeun/JavaScript.수업실습용.20180414/st03.JavaScript/js06.선택문_반복문_예외문/ex06-16 중첩 for문.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="200">
-              <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <caret line="10" column="44" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ex05-2 표준입출력.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/tjoeun/JavaScript.수업실습용.20180414/st03.JavaScript/js05.연산자/ex05-2 표준입출력.html">
+      <file leaf-file-name="ex06-18 배열.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tjoeun/JavaScript.수업실습용.20180414/st03.JavaScript/js06.선택문_반복문_예외문/ex06-18 배열.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="19" column="7" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+            <state relative-caret-position="340">
+              <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="js03-02.표준입출력.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tjoeun/JavaScript.수업실습용.20180414/st03.JavaScript/js03.프로그래밍기초/js03-02.표준입출력.html">
+      <file leaf-file-name="ex06-19 무한루프.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tjoeun/JavaScript.수업실습용.20180414/st03.JavaScript/js06.선택문_반복문_예외문/ex06-19 무한루프.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="500">
-              <caret line="25" column="45" selection-start-line="25" selection-start-column="45" selection-end-line="25" selection-end-column="45" />
+            <state relative-caret-position="320">
+              <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ex06-19 무한루프2.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tjoeun/JavaScript.수업실습용.20180414/st03.JavaScript/js06.선택문_반복문_예외문/ex06-19 무한루프2.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="9" column="63" selection-start-line="9" selection-start-column="63" selection-end-line="9" selection-end-column="63" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ex06-20 무인도 탈출게임.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/tjoeun/JavaScript.수업실습용.20180414/st03.JavaScript/js06.선택문_반복문_예외문/ex06-20 무인도 탈출게임.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="280">
+              <caret line="14" column="61" selection-start-line="14" selection-start-column="61" selection-end-line="14" selection-end-column="61" />
               <folding />
             </state>
           </provider>
@@ -110,6 +170,18 @@
         <option value="$PROJECT_DIR$/tjoeun/JavaScript.수업실습용.20180414/st03.JavaScript/js05.연산자/js05-09.자동형변환.html" />
         <option value="$PROJECT_DIR$/tjoeun/JavaScript.수업실습용.20180414/st03.JavaScript/js05.연산자/js05-02.몫과머지.html" />
         <option value="$PROJECT_DIR$/tjoeun/JavaScript.수업실습용.20180414/st03.JavaScript/js05.연산자/ex05-2 표준입출력.html" />
+        <option value="$PROJECT_DIR$/tjoeun/JavaScript.수업실습용.20180414/st03.JavaScript/js06.선택문_반복문_예외문/ex06-01.html" />
+        <option value="$PROJECT_DIR$/tjoeun/JavaScript.수업실습용.20180414/st03.JavaScript/js06.선택문_반복문_예외문/ex06-02.html" />
+        <option value="$PROJECT_DIR$/tjoeun/JavaScript.수업실습용.20180414/st03.JavaScript/js06.선택문_반복문_예외문/ex06-02 if-else.html" />
+        <option value="$PROJECT_DIR$/tjoeun/JavaScript.수업실습용.20180414/st03.JavaScript/js06.선택문_반복문_예외문/ex06-03.html" />
+        <option value="$PROJECT_DIR$/tjoeun/JavaScript.수업실습용.20180414/st03.JavaScript/js06.선택문_반복문_예외문/ex06-03 for2.html" />
+        <option value="$PROJECT_DIR$/tjoeun/JavaScript.수업실습용.20180414/st03.JavaScript/js06.선택문_반복문_예외문/ex06-03 for3.html" />
+        <option value="$PROJECT_DIR$/tjoeun/JavaScript.수업실습용.20180414/st03.JavaScript/js06.선택문_반복문_예외문/ex06-15 중첩 for문.html" />
+        <option value="$PROJECT_DIR$/tjoeun/JavaScript.수업실습용.20180414/st03.JavaScript/js06.선택문_반복문_예외문/ex06-16 중첩 for문.html" />
+        <option value="$PROJECT_DIR$/tjoeun/JavaScript.수업실습용.20180414/st03.JavaScript/js06.선택문_반복문_예외문/ex07-1 배열.html" />
+        <option value="$PROJECT_DIR$/tjoeun/JavaScript.수업실습용.20180414/st03.JavaScript/js06.선택문_반복문_예외문/ex06-19 무한루프.html" />
+        <option value="$PROJECT_DIR$/tjoeun/JavaScript.수업실습용.20180414/st03.JavaScript/js06.선택문_반복문_예외문/ex06-19 무한루프2.html" />
+        <option value="$PROJECT_DIR$/tjoeun/JavaScript.수업실습용.20180414/st03.JavaScript/js06.선택문_반복문_예외문/ex06-20 무인도 탈출게임.html" />
       </list>
     </option>
   </component>
@@ -148,7 +220,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -229,59 +300,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="js05.연산자" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="study" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="study" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tjoeun" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JavaScript.수업실습용.20180414" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="st03.JavaScript" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js04.변수와타입" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="study" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="study" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tjoeun" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JavaScript.수업실습용.20180414" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="st03.JavaScript" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js03.프로그래밍기초" />
+              <option name="myItemId" value="js06.선택문_반복문_예외문" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -301,6 +320,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -315,10 +335,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/tjoeun/JavaScript.수업실습용.20180414/st03.JavaScript/js06.선택문_반복문_예외문" />
       <recent name="$PROJECT_DIR$/tjoeun/JavaScript.수업실습용.20180414/st03.JavaScript/js05.연산자" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.js04-02.데이터타입.html">
+  <component name="RunManager" selected="JavaScript Debug.ex06-03 for2.html">
     <configuration default="false" name="js03-02.표준입출력.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/study/tjoeun/JavaScript.수업실습용.20180414/st03.JavaScript/js03.프로그래밍기초/js03-02.표준입출력.html">
       <method />
     </configuration>
@@ -326,6 +347,9 @@
       <method />
     </configuration>
     <configuration default="false" name="js04-02.데이터타입.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/study/tjoeun/JavaScript.수업실습용.20180414/st03.JavaScript/js04.변수와타입/js04-02.데이터타입.html">
+      <method />
+    </configuration>
+    <configuration default="false" name="ex06-03 for2.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/study/tjoeun/JavaScript.수업실습용.20180414/st03.JavaScript/js06.선택문_반복문_예외문/ex06-03 for2.html">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -381,16 +405,18 @@
       <recursive>false</recursive>
       <method />
     </configuration>
-    <list size="3">
+    <list size="4">
       <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.js03-02.표준입출력.html" />
       <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.js04-01.html" />
       <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.js04-02.데이터타입.html" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.ex06-03 for2.html" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.js04-02.데이터타입.html" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.js04-01.html" />
-        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.js03-02.표준입출력.html" />
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.ex06-03 for2.html" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.js04-02.데이터타입.html" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.js04-01.html" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.js03-02.표준입출력.html" />
       </list>
     </recent_temporary>
   </component>
@@ -412,7 +438,8 @@
       <workItem from="1523925280737" duration="314000" />
       <workItem from="1523951427450" duration="155000" />
       <workItem from="1524273016055" duration="2517000" />
-      <workItem from="1524281190585" duration="200000" />
+      <workItem from="1524281190585" duration="337000" />
+      <workItem from="1524281663756" duration="7651000" />
     </task>
     <task id="LOCAL-00001" summary="1일차">
       <created>1523671767127</created>
@@ -442,11 +469,18 @@
       <option name="project" value="LOCAL" />
       <updated>1523857637732</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="오전 공부">
+      <created>1524281419992</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1524281419992</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15363000" />
+    <option name="totallyTimeSpent" value="23151000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -465,19 +499,19 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32739726" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.47814208" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3989071" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -493,13 +527,54 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1일차" />
-    <option name="LAST_COMMIT_MESSAGE" value="1일차" />
+    <MESSAGE value="오전 공부" />
+    <option name="LAST_COMMIT_MESSAGE" value="오전 공부" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/tjoeun/JavaScript.수업실습용.20180414/st03.JavaScript/js05.연산자/js05-09.자동형변환.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tjoeun/JavaScript.수업실습용.20180414/st03.JavaScript/js05.연산자/js05-02.몫과머지.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="19" column="6" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tjoeun/JavaScript.수업실습용.20180414/st03.JavaScript/js05.연산자/ex05-1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tjoeun/JavaScript.수업실습용.20180414/st03.JavaScript/js05.연산자/ex05-2 표준입출력.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tjoeun/JavaScript.수업실습용.20180414/st03.JavaScript/js03.프로그래밍기초/js03-02.표준입출력.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="25" column="45" selection-start-line="25" selection-start-column="45" selection-end-line="25" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/tjoeun/JavaScript.수업실습용.20180414/st03.JavaScript/js05.연산자/js05-09.자동형변환.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
@@ -660,14 +735,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tjoeun/JavaScript.수업실습용.20180414/st03.JavaScript/js03.프로그래밍기초/js03-02.표준입출력.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="25" column="45" selection-start-line="25" selection-start-column="45" selection-end-line="25" selection-end-column="45" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tjoeun/JavaScript.수업실습용.20180414/st03.JavaScript/js05.연산자/js05-02.몫과머지.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="380">
@@ -686,8 +753,112 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/tjoeun/JavaScript.수업실습용.20180414/st03.JavaScript/js05.연산자/ex05-2 표준입출력.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="19" column="7" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+        <state relative-caret-position="160">
+          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tjoeun/JavaScript.수업실습용.20180414/st03.JavaScript/js03.프로그래밍기초/js03-02.표준입출력.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="25" column="45" selection-start-line="25" selection-start-column="45" selection-end-line="25" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tjoeun/JavaScript.수업실습용.20180414/st03.JavaScript/js06.선택문_반복문_예외문/ex06-01.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tjoeun/JavaScript.수업실습용.20180414/st03.JavaScript/js06.선택문_반복문_예외문/ex06-02.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tjoeun/JavaScript.수업실습용.20180414/st03.JavaScript/js06.선택문_반복문_예외문/ex06-02 if-else.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="36" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tjoeun/JavaScript.수업실습용.20180414/st03.JavaScript/js06.선택문_반복문_예외문/ex06-03 for.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" column="33" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tjoeun/JavaScript.수업실습용.20180414/st03.JavaScript/js06.선택문_반복문_예외문/ex06-03 for2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="34" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tjoeun/JavaScript.수업실습용.20180414/st03.JavaScript/js06.선택문_반복문_예외문/ex06-03 for3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tjoeun/JavaScript.수업실습용.20180414/st03.JavaScript/js06.선택문_반복문_예외문/ex06-15 중첩 for문.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tjoeun/JavaScript.수업실습용.20180414/st03.JavaScript/js06.선택문_반복문_예외문/ex06-16 중첩 for문.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="44" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tjoeun/JavaScript.수업실습용.20180414/st03.JavaScript/js06.선택문_반복문_예외문/ex06-18 배열.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tjoeun/JavaScript.수업실습용.20180414/st03.JavaScript/js06.선택문_반복문_예외문/ex06-19 무한루프.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tjoeun/JavaScript.수업실습용.20180414/st03.JavaScript/js06.선택문_반복문_예외문/ex06-19 무한루프2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" column="63" selection-start-line="9" selection-start-column="63" selection-end-line="9" selection-end-column="63" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tjoeun/JavaScript.수업실습용.20180414/st03.JavaScript/js06.선택문_반복문_예외문/ex06-20 무인도 탈출게임.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" column="61" selection-start-line="14" selection-start-column="61" selection-end-line="14" selection-end-column="61" />
           <folding />
         </state>
       </provider>
