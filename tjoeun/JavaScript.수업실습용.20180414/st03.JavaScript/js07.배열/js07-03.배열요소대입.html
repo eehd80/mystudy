@@ -3,9 +3,36 @@
 <head>
     <meta charset="UTF-8">
     <title>Title</title>
-    
+    <script>
+        var number = [];
+
+        number[0] = 0;
+        number[3] = undefined;
+        number[4] = null;
+        number[5] = [11, 12, 13];
+
+        console.log('number[0] = ' + number[0]);
+        console.log('number[1] = ' + number[1]);
+        console.log('number[2] = ' + number[2]);
+        console.log('number[3] = ' + number[3]);
+        console.log('number[4] = ' + number[4]);
+        console.log('number[5] = ' + number[5]);
+        console.log('number[6] = ' + number[6]);
+        console.log('number.length = ' + number.length);
+
+        //for문을 이용해 배열 요소 열거
+        for(var i=0 ;i<=number.length-1; i++){
+            console.log('number['+i+'] = '+ number[i]);
+        }
+
+        //forin 문으로 배열 요소 열거
+        for(var i in number){
+            console.log('number['+i+'] = '+ number[i]);
+        }
+    </script>
 </head>
 <body>
 
 </body>
 </html>
+s

@@ -3,7 +3,20 @@
 <head>
     <meta charset="UTF-8">
     <title>Title</title>
-    
+    <script>
+        try{
+            var i = 1;
+            var j = 'a';
+            i = i/j;
+
+            console.log('정상');
+        }catch(e){
+            console.log(e.message);
+        }finally {
+            console.log('처리가 완료되었습니다');
+        }
+
+    </script>
 </head>
 <body>
 

@@ -3,7 +3,19 @@
 <head>
     <meta charset="UTF-8">
     <title>Title</title>
-    
+    <script>
+        //배열 정렬 sort(); 배열 요소를 문자로 변환하여 정렬
+        var arr5 = [30, 3, 2, 156, 34];
+        arr5.sort();
+        console.log( arr5 ); //156, 2, 3, 30, 34
+
+        //숫자를 크기 순으로 소트할 때 내부적으로 필요한 함수
+        var compNumber = function (a,b) {
+            return a - b;
+        }
+        arr5.sort(compNumber);
+        console.log( arr5 );
+    </script>
 </head>
 <body>
 

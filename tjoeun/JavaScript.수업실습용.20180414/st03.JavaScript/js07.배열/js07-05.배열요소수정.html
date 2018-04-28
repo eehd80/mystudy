@@ -3,7 +3,36 @@
 <head>
     <meta charset="UTF-8">
     <title>배열 요소 수정</title>
-    
+    <script>
+        var arr = [true, 100, 'eight'];
+        console.log(arr);
+
+        //배열 추가
+        arr[6] = null;
+        arr[10] = undefined;
+        arr[11] = true;
+        arr[12] = 'update';
+        console.log(arr);
+
+        //배열 수정
+        arr[0] = 'update';
+        console.log(arr);
+
+        //length 값 변경 후
+        arr.length = 100; //99번 방 만들어
+        //마지막 방에 배열 요소추가 하기 : push() 메서드 호출
+        arr.push('ten'); //100번 방에 추가
+        console.log('length = '+arr.length, arr);
+
+        //length 값 변경 후, 마지막 방에 배열 요소추가 하기 : length-1
+        arr[ arr.length ] = 101; //101번 방에 추가
+        console.log('length = ' + arr.length, arr)
+
+
+        for(var i in arr){
+            console.log('arr['+i+'] = ',arr[i])
+        }
+    </script>
 </head>
 <body>
 

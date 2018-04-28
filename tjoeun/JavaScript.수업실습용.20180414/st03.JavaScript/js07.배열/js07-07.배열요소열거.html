@@ -3,7 +3,19 @@
 <head>
     <meta charset="UTF-8">
     <title>배열 요소 열거</title>
-    
+    <script>
+        var arr = ['zero','one','two','three'];
+
+        for(var i=0; i<=arr.length-1; i++){
+            console.log('arr['+i+'] = ', arr[i]);
+        }
+
+        for( i in arr ) {
+            console.log('arr['+i+'] = ', arr[i]);
+        }
+
+
+    </script>
 </head>
 <body>
 

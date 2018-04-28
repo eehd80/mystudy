@@ -3,7 +3,21 @@
 <head>
     <meta charset="UTF-8">
     <title>Title</title>
-    
+    <script>
+        console.log( x ); // x변수 값은 안올라가고 변수 선언만 올라감 (호이스팅 hoisting)
+        var x = 1;
+        console.log( '------------' );
+
+        var outer = function () {
+            console.log( x );
+            console.log( y );
+            var y = 5;
+            console.log( y );
+        }
+        outer();
+
+
+    </script>
 </head>
 <body>
 
